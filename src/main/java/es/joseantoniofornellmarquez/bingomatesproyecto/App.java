@@ -20,7 +20,11 @@ public class App extends Application {
         
         Carton carton = new Carton();
         carton.generar();
+        
+
+        
     }
+
     public static void main(String[] args) {
         launch();
     }
